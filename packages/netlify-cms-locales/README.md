@@ -18,3 +18,4 @@ CMS.registerLocale('de', de);
 Make sure the specific locale exists in the package - unless we will happily accept a pull request for it.
 
 The configured locale will be merge into the English one so don’t worry about missing some phrases.
+Hello World

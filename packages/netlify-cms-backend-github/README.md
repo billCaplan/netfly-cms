@@ -15,3 +15,4 @@ An abstraction layer between the CMS and [Github](https://docs.github.com/en/res
 `scripts` -  use `createFragmentTypes.js` to create GitHub GraphQL API fragment types.
 
 Look at tests or types for more info.
+Hello World

@@ -45,3 +45,4 @@ import CMS from 'netlify-cms-app';
 
 CMS.init();
 ```
+Hello World

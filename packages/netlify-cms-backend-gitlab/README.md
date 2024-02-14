@@ -11,3 +11,4 @@ An abstraction layer between the CMS and [GitLab](https://docs.gitlab.com/ee/api
 `AuthenticationPage` - A component uses [lib-auth](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-lib-auth/README.md) to facilitate OAuth, PKCE and implicit authentication.
 
 Look at tests or types for more info.
+Hello World

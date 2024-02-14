@@ -24,3 +24,4 @@ When debugging the CMS with Git Gateway you must:
     3. To be sure, you can run this command as well: `localStorage.getItem('netlifySiteURL')`
     4. Refresh the page
     5. You should be able to log in via your Netlify Identity email/password
+Hello World
