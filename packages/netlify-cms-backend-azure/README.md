@@ -11,3 +11,4 @@ An abstraction layer between the CMS and [Azure DevOps](https://docs.microsoft.c
 `AuthenticationPage` - facilitates implicit authentication flow. Uses [lib-auth](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-lib-auth/README.md).
 
 Look at tests or types for more info.
+Hello World
